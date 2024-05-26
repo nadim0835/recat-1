@@ -101,7 +101,7 @@ nav .flex ul button:hover{
   
 }
 .banner_text_fast{
-  background-image: url(../public/Images/Rectangle\ 3.png);
+  background-image: url("/Images/Rectangle\ 3.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: cover;
@@ -127,7 +127,7 @@ nav .flex ul button:hover{
   padding-left:37px ;
 }
 .banner_text_sec{
-  background-image: url(../public/Images/Group\ 95.png);
+  background-image: url("/Images/Group\ 95.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: cover;
@@ -243,7 +243,7 @@ nav .flex ul button:hover{
   margin-top: 69px;
 }
 #arival .text {
-  background-image: url("../public/Images/Vector\ 8.png");
+  background-image: url("/Images/Vector\ 8.png");
   background-repeat: no-repeat;
   background-position: 219px 18px;
 }
@@ -258,12 +258,12 @@ letter-spacing: 2.88px;
 }
 .imgetesxt .fast{
   margin-top: 100px;
-  transition: all .2s linear;
+  transition: all .1s linear;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   border-radius: 20px;
 }
 .imgetesxt .fast:hover{
-  transform: scale(1.02);
+  transform: scaleY(1.06);
 }
 .imgetesxt .sub {
   display: flex;
@@ -316,7 +316,7 @@ letter-spacing: 2.88px;
 
 }
 #PAYDAY .payday_right .text{
-  background-image: url(../public/Images/Rectangle\ 25.png);
+  background-image: url("/Images/Rectangle\ 25.png");
   background-position: 0 0;
   background-repeat: no-repeat;
 }
@@ -396,7 +396,7 @@ letter-spacing: 2.88px;
   margin-top: 190px;
 }
 #young .text {
-  background-image: url("../public/Images/Vector\ 8.png");
+  background-image: url("/Images/Vector\ 8.png");
   background-repeat: no-repeat;
   background-position: 331px 20px;
 }
@@ -513,7 +513,7 @@ letter-spacing: 2.88px;
   width: 50%;
   position: relative;
   /* border: 1px solid red; */
-  background-image: url("../public/Images/Group\ 84.png");
+  background-image: url("/Images/Group\ 84.png");
   background-position: 62px 129px;
   background-repeat: no-repeat;
 }
